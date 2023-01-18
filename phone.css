@@ -1,0 +1,389 @@
+#logo img {
+    margin-left: 11px;
+    height: 80px;
+}
+.soft {
+    font-size: 1.7rem;
+    margin-left: 5px;
+    margin-top: 24px;
+}
+#navbar{
+    width: 1069px;
+}
+#navbar ul li a {
+    font-size: 1.9rem;
+}
+#fb{
+    height: 62px;
+}
+#twit{
+    height: 63px;
+}
+#insta{
+    height: 63px;
+}
+
+#background{
+    margin-top: 153px;
+    width: 1045px;
+    height: 998px;
+}
+#text {
+    margin-left: 163px;
+    font-size: 2.8rem;
+}
+#text2 {
+    margin-left: 103px;
+    font-size: 5rem;
+    padding: 51px;
+}
+#text3 {
+    margin-bottom: 98px;
+    font-size: 2.3rem;
+}
+.btn {
+    font-size: 2rem;
+    padding: 56px;
+    width: 346px;
+}
+.btn2 {
+    margin-left: 20px;
+    font-size: 2rem;
+    padding: 56px;
+    width: 346px;
+}
+.container2  {
+    padding-top: 1px;
+    width: 1045px;
+    display: block;
+}
+.img {
+    margin: 112px 22px;
+    height: 887px;
+    width: 988px;
+}
+.core {
+    margin-left: 361px;
+    font-size: 2.7rem;
+}
+#soft {
+    margin-left: 179px;
+    font-size: 4.9rem;
+    padding: 32px;
+}
+.img2 {
+    margin: 0px 17px;
+    height: 296px;
+    width: 337px;
+}
+.img3 {
+    margin: 0px 0px;
+    height: 296px;
+    width: 337px;
+}
+.img4 {
+    margin: 0px 17px;
+    height: 296px;
+    width: 337px;
+}
+.para {
+    font-size: 2.5rem;
+    margin: 76px 61px;
+}
+.btn3 {
+    padding: 37px 0px;
+    margin-left: 359px;
+    width: 319px;
+    font-size: 2rem;
+}
+.container3 {
+    margin-left: 23px;
+}
+.box3 {
+    margin-left: 80px;
+    width: 798px;
+    height: 979px;
+}
+.app{
+    margin-left: 143px;
+    font-size: 2.2rem;
+}
+#para2 {
+    font-size: 5.3rem;
+    margin-top: 21px;
+}
+#app-section {
+    padding-top: 64px;
+}
+.app-content {
+    margin-left: 118px;
+    width: 728px;
+}
+.img5 {
+    height: 610px;
+    position: absolute;
+    width: 692px;
+    left: 218px;
+    bottom: 91px;
+}
+
+.img5 img{
+    width: 100%;
+
+}
+
+.container4 {
+    height: 1000px;
+    width: 1037px;
+    padding: 135px 21px;
+}
+.container4 h2 {
+    margin-left: 394px;
+    font-size: 2.4rem;
+}
+.para3 {
+    font-size: 2.5rem;
+    margin-top: 39px;
+}
+#t-icon{
+    display: block;
+
+}
+.tick-icon {
+    font-size: 2rem;
+    margin-top: 39px;
+}
+#core2{
+    margin-left: 26px;
+    font-size: 4rem;
+}
+.core-boxes{
+    padding: 0px 40px;
+    display: block;
+}
+.core-box{
+  margin: 85px 5px;
+}
+.core-box-img img {
+    width: 1000px;
+    height: 639px;
+}
+.core-box h6 {
+    margin: 33px 27px;
+    font-size: 2.5rem;
+}
+.core-box h3 {
+    font-size: 4rem;
+    margin: 3px 34px;
+    padding-bottom: 62px;
+}
+.core-arrow {
+    padding: 37px 48px;
+    top: 568px;
+    right: 83px;
+}
+.core-arrow img {
+    height: 62px;
+}
+.container6 {
+    margin-top: 160px;
+    height: 1018px;
+    width: 1039px;
+}
+.box4 {
+    margin-right: 251px;
+    display: block;
+    height: 829px;
+}
+.box4 h6 {
+    margin-left: 80px;
+    font-size: 2rem;
+    margin-top: 18px;
+}
+.box4 h5 {
+    padding-top: 82px;
+    margin-left: 307px;
+    font-size: 2rem;
+}
+.bar {
+    width: 76%;
+    margin-left: 65px;
+    margin-top: 44px;
+    padding: 12px 21px;
+    height: 76px;
+}
+.bar img {
+    margin-left: 19px;
+    height: 57px;
+}
+#design-arrow {
+    margin-left: 110px;
+}
+.expert {
+    margin-top: 91px;
+    font-size: 3rem;
+    margin-left: 445px;
+}
+.member {
+    margin-top: 10px;
+    width: 1074px;
+    font-size: 4rem;
+}
+.team-boxes {
+    display: block;
+    
+}
+.team-box {
+    height: 555px;
+    width: 870px;
+    margin: 86px 0px;
+}
+.team-box-img img {
+    margin-top: 130px;
+    height: 210px;
+}
+.team-box h2 {
+    font-size: 3rem;
+}
+.team-box h6 {
+    margin: 35px 0px;
+    font-size: 2.3rem;
+}
+.team-logos img{
+    height: 57px;
+}
+.background-img img {
+    height: 857px;
+    width: 1070px;
+    margin: 110px auto;
+}
+.clients {
+    display: block;
+    top: 805px;
+    height: 685px;
+    width: 786px;
+    left: 134px;
+}
+.clients h6 {
+    margin: 27px 310px;
+    font-size: 2rem;
+}
+.clients h5 {
+    margin-left: 318px;
+    font-size: 1.8rem;
+}
+.pre-btn {
+    margin-top: 40px;
+    padding: 34px 72px;
+    margin-left: 270px;
+    font-size: 2rem;
+}
+.container8 {
+    height: 1650px;
+    margin-top: 595px;
+    width: 1042px;
+}
+.cont8 h6 {
+    padding-top: 80px;
+    padding-left: 419px;
+    font-size: 2rem;
+}
+.cont8 h1 {
+    padding-left: 160px;
+    font-size: 4.5rem;
+    margin-top: 11px;
+}
+.client-boxes{
+    display: block;
+}
+.client-box {
+    margin-top: 39px;
+    margin-left: 25px;
+    border-radius: 10px;
+    height: 395px;
+    width: 854px;
+}
+#para4 {
+    padding: 34px 89px;
+    font-size: 2.3rem;
+    margin: 22px 0px;
+}
+.team-img {
+    height: 121px;
+}
+.text {
+    font-size: 1.5rem;
+    margin-top: 38px;
+    margin-left: 33px;
+}
+.invert-icon img{
+    height: 100%;
+}
+.invert-icon {
+    height: 69px;
+    bottom: 40%;
+    right: 5%;
+}
+.action {
+    width: 1060px;
+    margin-top: 88px;
+    font-size: 3.8rem;
+}
+.video-sec{
+    height: 690px;
+}
+.play-btn {
+    left: 95%;
+
+}
+.play-button {
+    padding: 52px 56px;
+    border-radius: 182px;
+}
+.project-details {
+    width: 1098px;
+    height: 738px;
+   
+}
+.details-box {
+    left: 0px;
+    top: 98px;
+    border-radius: 14px;
+    height: 640px;
+}
+.details-box h1 {
+    margin-top: 9px;
+    font-size: 4rem;
+    margin-left: 256px;
+}
+.details-box h6 {
+    padding-top: 53px;
+   margin-left: 371px;
+   font-size: 2rem;
+}
+.form{
+    display: block;
+}
+#contact-box input {
+    width: 704px;
+}
+#contact-box {
+    margin-left: 141px;
+}
+.form-group {
+    padding: 4px 54px;
+    width: 843px;
+}
+.subscribe {
+    margin-top: 11px;
+    margin-left: 315px;
+    font-size: 1.3rem;
+    padding: 16px 36px;
+}
+.map{
+    width: 1040px;
+}
+
+footer{
+    width: 1040px;
+}
